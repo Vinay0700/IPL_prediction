@@ -1,6 +1,6 @@
 # IPL Winning Percentage Predictor
--[IPL Winning Percentage Predictor](URL "https://ipl-win-prob.onrender.com")
--This project is an IPL (Indian Premier League) winning percentage predictor based on machine learning. It predicts the winning percentage of IPL teams using historical data.
+- [IPL Winning Percentage Predictor](URL "https://ipl-win-prob.onrender.com")
+- This project is an IPL (Indian Premier League) winning percentage predictor based on machine learning. It predicts the winning percentage of IPL teams using historical data.
 
 ## Table of Contents
 
